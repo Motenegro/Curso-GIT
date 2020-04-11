@@ -1,0 +1,13 @@
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\bin\Debug\netcoreapp3.1\Datas.exe
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\bin\Debug\netcoreapp3.1\Datas.deps.json
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\bin\Debug\netcoreapp3.1\Datas.runtimeconfig.json
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\bin\Debug\netcoreapp3.1\Datas.runtimeconfig.dev.json
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\bin\Debug\netcoreapp3.1\Datas.dll
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\bin\Debug\netcoreapp3.1\Datas.pdb
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\obj\Debug\netcoreapp3.1\Datas.csprojAssemblyReference.cache
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\obj\Debug\netcoreapp3.1\Datas.csproj.CoreCompileInputs.cache
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\obj\Debug\netcoreapp3.1\Datas.AssemblyInfoInputs.cache
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\obj\Debug\netcoreapp3.1\Datas.AssemblyInfo.cs
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\obj\Debug\netcoreapp3.1\Datas.dll
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\obj\Debug\netcoreapp3.1\Datas.pdb
+C:\Users\Montenegro\Documents\Visual Studio 2019\C#\Datas\Datas\obj\Debug\netcoreapp3.1\Datas.genruntimeconfig.cache
