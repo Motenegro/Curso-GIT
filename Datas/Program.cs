@@ -29,6 +29,7 @@ namespace Datas
             Console.WriteLine("   {0,-35} {1,20:N0}", "Ticks:", interval.Ticks);
 
             Console.WriteLine("+---------------------------- FIM --------------------------+");
+            Console.WriteLine("+ Montenegro em:11/04/2020 as 20:23 +");
 
             // This example displays the following output:
             //       8/18/2010 1:30:30 PM - 1/1/2010 8:00:15 AM = 229.05:30:15
