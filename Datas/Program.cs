@@ -6,6 +6,7 @@ namespace Datas
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("+-------------------------- INICIO -------------------------+");
             // Define two dates.
             DateTime date1 = new DateTime(2010, 1, 1, 8, 0, 15);
             DateTime date2 = new DateTime(2010, 8, 18, 13, 30, 30);
