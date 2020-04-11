@@ -27,6 +27,8 @@ namespace Datas
             Console.WriteLine("   {0,-35} {1,20:N0}", "Total Number of Milliseconds:", interval.TotalMilliseconds);
             Console.WriteLine("   {0,-35} {1,20:N0}", "Ticks:", interval.Ticks);
 
+            Console.WriteLine("+---------------------------- FIM --------------------------+");
+
             // This example displays the following output:
             //       8/18/2010 1:30:30 PM - 1/1/2010 8:00:15 AM = 229.05:30:15
             //          Value of Days Component:                             229
